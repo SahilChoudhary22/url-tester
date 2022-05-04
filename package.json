@@ -1,6 +1,6 @@
 {
   "name": "url-tester",
-  "displayName": "URL Tester and Diagnosis",
+  "displayName": "URL Tester, Health Check and Diagnosis",
   "publisher": "SahilChoudhary",
   "description": "Generates a report on your URL's performance and basic functionalities like CORS status check and average response time calculator",
   "version": "0.0.1",
