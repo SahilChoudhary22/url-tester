@@ -1,0 +1,9 @@
+{
+    "webhook": {
+        "id": "1ecc9f99-b91b-4520-aff5-0e4ec8525e76",
+        "name": "Site Tester",
+        "collection": "20561716-a3966613-6d96-4b9c-b7a5-6e384538679f",
+        "webhookUrl": "https://newman-api.getpostman.com/run/20561716/ba26d0b3-495c-44db-8c97-b8ce20758c82",
+        "uid": "20561716-1ecc9f99-b91b-4520-aff5-0e4ec8525e76"
+    }
+}
