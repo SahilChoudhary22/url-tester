@@ -7,8 +7,18 @@
   "engines": {
     "vscode": "^1.66.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SahilChoudhary22/url-tester.git"
+  },
+  "author": {
+    "name": "Sahil"
+  },
+  "icon": "tut/icon_v3.png",
   "categories": [
-    "Other"
+    "Testing",
+    "Snippets",
+    "Programming Languages"
   ],
   "activationEvents": [
     "onCommand:ezy-site-tester.regular"
@@ -49,5 +59,10 @@
   },
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/SahilChoudhary22/url-tester/issues",
+    "email": "sahil.codes.it@gmail.com"
+  },
+  "homepage": "https://github.com/SahilChoudhary22/url-tester/blob/main/README.md"
 }
